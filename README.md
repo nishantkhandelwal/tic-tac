@@ -1,6 +1,6 @@
 ## The task
 
-We have a partial implementation of a tic-tac-toe game. You'll pair with Sedex engineers to complete this.
+We have a partial implementation of a tic-tac-toe game. 
 
 ## How to approach the task
 
