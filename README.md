@@ -1,5 +1,3 @@
-# Sedex Connect - Tic-Tac-Toe Front End Engineer Tech Test
-
 ## The task
 
 We have a partial implementation of a tic-tac-toe game. You'll pair with Sedex engineers to complete this.
